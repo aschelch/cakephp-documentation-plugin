@@ -1,0 +1,220 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-04-26 12:45+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/GroupsController.php:25;40
+#: Controller/RessourcesController.php:45;87
+msgid "Group does not exists"
+msgstr ""
+
+#: Controller/VersionsController.php:17;41;55
+msgid "Version does not exists"
+msgstr ""
+
+#: View/Elements/sidebar.ctp:9
+#: View/Versions/admin_add.ctp:1
+msgid "Add a version"
+msgstr ""
+
+#: View/Elements/sidebar.ctp:18
+#: View/Groups/admin_add.ctp:1
+msgid "Add a group"
+msgstr ""
+
+#: View/Elements/sidebar.ctp:27
+#: View/Ressources/admin_add.ctp:1
+msgid "Add a ressource"
+msgstr ""
+
+#: View/Elements/sidebar.ctp:47
+#: View/Ressources/view.ctp:18
+#: View/Versions/view.ctp:13
+msgid "Edit"
+msgstr ""
+
+#: View/Elements/sidebar.ctp:54
+#: View/Ressources/admin_add.ctp:24;48
+#: View/Ressources/admin_edit.ctp:26;45;70;78
+#: View/Ressources/view.ctp:25
+#: View/Versions/view.ctp:19
+msgid "Delete"
+msgstr ""
+
+#: View/Elements/sidebar.ctp:54
+#: View/Ressources/view.ctp:25
+#: View/Versions/view.ctp:19
+msgid "Are you sure you want to delete it ?"
+msgstr ""
+
+#: View/Groups/admin_add.ctp:5
+#: View/Groups/admin_edit.ctp:6
+#: View/Ressources/admin_add.ctp:6
+#: View/Ressources/admin_edit.ctp:6
+#: View/Versions/admin_add.ctp:6
+#: View/Versions/admin_edit.ctp:6
+msgid "Details"
+msgstr ""
+
+#: View/Groups/admin_add.ctp:6
+#: View/Groups/admin_edit.ctp:7
+msgid "Group name"
+msgstr ""
+
+#: View/Groups/admin_add.ctp:7
+#: View/Groups/admin_edit.ctp:8
+msgid "Version"
+msgstr ""
+
+#: View/Groups/admin_add.ctp:9
+#: View/Groups/admin_edit.ctp:10
+#: View/Ressources/admin_add.ctp:57
+#: View/Ressources/admin_edit.ctp:88
+#: View/Versions/admin_add.ctp:9
+#: View/Versions/admin_edit.ctp:9
+msgid "Save"
+msgstr ""
+
+#: View/Groups/admin_edit.ctp:1
+msgid "Edit a group"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:8
+#: View/Ressources/admin_edit.ctp:9
+msgid "URL"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:11;36
+#: View/Ressources/admin_edit.ctp:12;39;58
+#: View/Versions/view.ctp:36
+msgid "Description"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:14
+#: View/Ressources/admin_edit.ctp:15
+msgid "Group"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:15
+#: View/Ressources/admin_edit.ctp:16
+msgid "Method"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:20
+#: View/Ressources/admin_edit.ctp:21
+msgid "Parameters"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:24
+#: View/Ressources/admin_edit.ctp:26;45
+#: View/Ressources/view.ctp:29
+msgid "Parameter"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:27
+#: View/Ressources/admin_edit.ctp:30;49
+msgid "Parameter name"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:30
+#: View/Ressources/admin_edit.ctp:33;52
+#: View/Ressources/view.ctp:37
+msgid "required"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:33;48
+#: View/Ressources/admin_edit.ctp:36;55;70;78
+msgid "Example"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:41
+#: View/Ressources/admin_edit.ctp:62
+msgid "Add a parameters"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:45
+#: View/Ressources/admin_edit.ctp:66
+msgid "Examples"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:49
+#: View/Ressources/admin_edit.ctp:72;80
+msgid "Title"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:50
+#: View/Ressources/admin_edit.ctp:73;81
+msgid "Request"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:51
+#: View/Ressources/admin_edit.ctp:74;82
+msgid "Result"
+msgstr ""
+
+#: View/Ressources/admin_add.ctp:54
+#: View/Ressources/admin_edit.ctp:85
+msgid "Add a example"
+msgstr ""
+
+#: View/Ressources/admin_edit.ctp:1
+msgid "Edit a ressource"
+msgstr ""
+
+#: View/Ressources/admin_edit.ctp:33;52
+#: View/Ressources/view.ctp:37
+msgid "optional"
+msgstr ""
+
+#: View/Ressources/view.ctp:41
+msgid "Example value"
+msgstr ""
+
+#: View/Ressources/view.ctp:49
+msgid "No parameters"
+msgstr ""
+
+#: View/Ressources/view.ctp:52
+msgid "Example request"
+msgstr ""
+
+#: View/Ressources/view.ctp:55
+msgid "Example #%s"
+msgstr ""
+
+#: View/Ressources/view.ctp:60
+msgid "No examples"
+msgstr ""
+
+#: View/Versions/admin_add.ctp:7
+#: View/Versions/admin_edit.ctp:7
+msgid "Version name"
+msgstr ""
+
+#: View/Versions/admin_edit.ctp:1
+msgid "Edit a version"
+msgstr ""
+
+#: View/Versions/index.ctp:6
+msgid "Documentation"
+msgstr ""
+
+#: View/Versions/view.ctp:5
+msgid "API %s"
+msgstr ""
+
+#: View/Versions/view.ctp:35
+msgid "Ressource"
+msgstr ""
+
